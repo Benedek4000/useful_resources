@@ -1,3 +1,3 @@
 # Useful Resources
 
-![Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+[Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
